@@ -23,6 +23,7 @@ You can find the resources, notes and links that will be used at the Machine Lea
 * How to use GCP for ML(train New york taxi fare model on ML Engine)
 #### Lunch Break 
 * Convolutional neural networks (practical: an image classificaion)
+    * https://colab.research.google.com/drive/1Kof7J312znH1NAMrjMhpbh8fZ0AXxSS2
 * Artistic style transfer
 * Basic intro to RNN/LSTMs and their usecases
 * Convert the image classification model (built above) and deploy on firebase
