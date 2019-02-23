@@ -24,6 +24,9 @@ You can find the resources, notes and links that will be used at the Machine Lea
 * TF Estimators
 * Practical exercise : New York taxi fare prediction
     * Challenge - https://www.kaggle.com/c/new-york-city-taxi-fare-prediction
+* Enroll to QwikLabs Quest "Baseline: Data, ML, AI"
+    * Sign in to [Baseline: Data, ML, AI](https://google.qwiklabs.com/quests/34?event=Study%20Jam&utm_source=qwiklabs&utm_medium=blog&utm_campaign=studyjam) using the given Study Jam Access Code
+
 
 ## Day 2
 * Recap of day 1
