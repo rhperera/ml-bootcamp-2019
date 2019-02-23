@@ -23,6 +23,7 @@ You can find the resources, notes and links that will be used at the Machine Lea
 * Feature crossing
 * TF Estimators
 * Practical exercise : New York taxi fare prediction
+    * Challenge - https://www.kaggle.com/c/new-york-city-taxi-fare-prediction
 
 ## Day 2
 * Recap of day 1
