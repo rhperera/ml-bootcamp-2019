@@ -10,6 +10,7 @@ You can find the resources, notes and links that will be used at the Machine Lea
     * Linear - https://colab.research.google.com/drive/1ekd7raM6lBgRYzrQTntXD1gegHlubXYK
     * Logistic - https://colab.research.google.com/drive/1Qva6AwESqgjHkviIVwjUgy-NGRXoa-R0
 * Intro to Tensorflow (sessions, graphs and basic principles + hands on)
+   * TF Basic - https://colab.research.google.com/drive/1-pIkqipJKiYU01cH3U2ndrCnnaaL_0hR
 * Loss function / Gradient Descent / Backpropagation
 * First Neural Net with Tensorflow and Intro to Keras(training, testing with different hyper params, loss functions etc)
 #### Lunch Break 
