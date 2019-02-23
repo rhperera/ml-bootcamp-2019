@@ -14,6 +14,7 @@ You can find the resources, notes and links that will be used at the Machine Lea
 * Intro to Tensorflow (sessions, graphs and basic principles + hands on)
    * TF Basic - https://colab.research.google.com/drive/1-pIkqipJKiYU01cH3U2ndrCnnaaL_0hR
 * First Neural Net with Tensorflow and Intro to Keras(training, testing with different hyper params, loss functions etc)
+   * Colab - https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/keras/basic_classification.ipynb
 #### Lunch Break 
 * Generalizing (overfitting, underfitting, regularization etc.)
 * Feature crossing
