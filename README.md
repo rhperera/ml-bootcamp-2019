@@ -11,15 +11,22 @@ You can find the resources, notes and links that will be used at the Machine Lea
     * Logistic - https://colab.research.google.com/drive/1Qva6AwESqgjHkviIVwjUgy-NGRXoa-R0
 * Loss function / Gradient Descent / Backpropagation
     * Colab - https://colab.research.google.com/drive/1WgkY0ZfALF6URdMbvEtVVojZS75VJ-dD
+#### Lunch Break 
 * Intro to Tensorflow (sessions, graphs and basic principles + hands on)
    * TF Basic - https://colab.research.google.com/drive/1-pIkqipJKiYU01cH3U2ndrCnnaaL_0hR
 * First Neural Net with Tensorflow and Intro to Keras(training, testing with different hyper params, loss functions etc)
    * Colab - https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/keras/basic_classification.ipynb
-#### Lunch Break 
+   * Neural Network Playground - https://playground.tensorflow.org/
+#### Tea Break 
 * Generalizing (overfitting, underfitting, regularization etc.)
+    * Colab - https://colab.research.google.com/drive/16jp1Jq3KJt236JeSHbMWHLvXbJWi6Wfs
 * Feature crossing
 * TF Estimators
 * Practical exercise : New York taxi fare prediction
+    * Challenge - https://www.kaggle.com/c/new-york-city-taxi-fare-prediction
+* Enroll to QwikLabs Quest "Baseline: Data, ML, AI"
+    * Sign in to [Baseline: Data, ML, AI](https://google.qwiklabs.com/quests/34?event=Study%20Jam&utm_source=qwiklabs&utm_medium=blog&utm_campaign=studyjam) using the given Study Jam Access Code
+
 
 ## Day 2
 * Recap of day 1
