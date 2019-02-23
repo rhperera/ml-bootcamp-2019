@@ -19,7 +19,7 @@ You can find the resources, notes and links that will be used at the Machine Lea
    * Neural Network Playground - https://playground.tensorflow.org/
 #### Tea Break 
 * Generalizing (overfitting, underfitting, regularization etc.)
-    * Colab - https://colab.research.google.com/<link>
+    * Colab - https://colab.research.google.com/drive/16jp1Jq3KJt236JeSHbMWHLvXbJWi6Wfs
 * Feature crossing
 * TF Estimators
 * Practical exercise : New York taxi fare prediction
