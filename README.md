@@ -9,10 +9,11 @@ You can find the resources, notes and links that will be used at the Machine Lea
 * Linear and Logistic regression with scikit learn (theory + hands on)
     * Linear - https://colab.research.google.com/drive/1ekd7raM6lBgRYzrQTntXD1gegHlubXYK
     * Logistic - https://colab.research.google.com/drive/1Qva6AwESqgjHkviIVwjUgy-NGRXoa-R0
+* Loss function / Gradient Descent / Backpropagation
+    * Colab - https://colab.research.google.com/drive/1WgkY0ZfALF6URdMbvEtVVojZS75VJ-dD
+* First Neural Net with Tensorflow and Intro to Keras(training, testing with different hyper params, loss functions etc)
 * Intro to Tensorflow (sessions, graphs and basic principles + hands on)
    * TF Basic - https://colab.research.google.com/drive/1-pIkqipJKiYU01cH3U2ndrCnnaaL_0hR
-* Loss function / Gradient Descent / Backpropagation
-* First Neural Net with Tensorflow and Intro to Keras(training, testing with different hyper params, loss functions etc)
 #### Lunch Break 
 * Generalizing (overfitting, underfitting, regularization etc.)
 * Feature crossing
