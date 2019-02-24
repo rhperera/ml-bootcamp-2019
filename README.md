@@ -40,7 +40,8 @@ You can find the resources, notes and links that will be used at the Machine Lea
 #### Lunch Break 
 * Convolutional neural networks (practical: an image classification)
    * Slides - https://docs.google.com/presentation/d/1O2Fny8zpbmDNjHwVUOjYmwfiu-1n9XJv8PwQ8XDV92g/edit?usp=sharing
-    * https://colab.research.google.com/drive/1Kof7J312znH1NAMrjMhpbh8fZ0AXxSS2
+    * Colab - https://colab.research.google.com/drive/1Kof7J312znH1NAMrjMhpbh8fZ0AXxSS2
+    * CodeLabs - https://codelabs.developers.google.com/codelabs/mlkit-android-custom-model/#8
 * Artistic style transfer
 * Basic intro to RNN/LSTMs and their use cases
 * Convert the image classification model (built above) and deploy on Firebase
