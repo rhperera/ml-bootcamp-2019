@@ -6,6 +6,7 @@ You can find the resources, notes and links that will be used at the Machine Lea
 * Intro to ML
    * Sides - https://docs.google.com/presentation/d/1g8VVLMVfkRwMXkp-zwOD2aF5SPupGqqwQ1uE9yI_r9U/edit?usp=sharing
 * Problem framing
+  * Slides - https://docs.google.com/presentation/d/1XjXcpq-N4jfxPhHiLIbLwWP71rWSq3-XCGlFQ2Shdo4/edit?usp=sharing
 * Data preparation and Feature Engineering
 * Linear and Logistic regression with scikit learn (theory + hands on)
    * Slides - https://docs.google.com/presentation/d/1KoacG4Ddhq6asCK7F5SJmdkRtJ2YTTM6QOubg1sKEWM/edit?usp=sharing
