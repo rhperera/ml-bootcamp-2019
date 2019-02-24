@@ -44,6 +44,7 @@ You can find the resources, notes and links that will be used at the Machine Lea
     * CodeLabs - https://codelabs.developers.google.com/codelabs/mlkit-android-custom-model/#8
 * Artistic style transfer
 * Basic intro to RNN/LSTMs and their use cases
+  * Slides - http://bit.ly/2XfNYpb
   * Colab - https://colab.research.google.com/drive/1p00DTA2S2vskvG2akTxLRfmnPh2p3S-v
 * Convert the image classification model (built above) and deploy on Firebase
 * ML Qwiklabs
